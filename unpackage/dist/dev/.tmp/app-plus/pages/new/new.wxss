@@ -1,0 +1,39 @@
+
+.content.data-v-b3dca9c0 {
+	margin-left: 20rpx;
+}
+.new.data-v-b3dca9c0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 20rpx;
+}
+.icon.data-v-b3dca9c0{
+	width: 200rpx;
+	height: 200rpx;
+}
+.image.data-v-b3dca9c0{
+	width: 200rpx;
+	height: 200rpx;
+}
+.title.data-v-b3dca9c0{
+	font-size: 36rpx;
+	font-weight: 700;
+}
+.text.data-v-b3dca9c0{
+	font-size: 36rpx;
+}
+.nameTime.data-v-b3dca9c0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	font-size: 24rpx;
+	color: #999999;
+}
+

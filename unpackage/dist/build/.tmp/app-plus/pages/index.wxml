@@ -1,0 +1,1 @@
+<view class="data-v-48c73029"><view class="head data-v-48c73029"><image class="locate data-v-48c73029" src="../static/locate.png" mode="widthFix"></image><view class="adress data-v-48c73029">{{''+address+''}}</view></view><view data-event-opts="{{[['tap',[['gotoNews',['$event']]]]]}}" bindtap="__e" class="data-v-48c73029">查看新闻</view></view>

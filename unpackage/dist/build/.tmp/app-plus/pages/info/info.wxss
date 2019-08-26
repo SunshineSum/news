@@ -1,0 +1,32 @@
+
+.content.data-v-15d275b0 {
+	margin-left: 20rpx;
+}
+.new.data-v-15d275b0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 20rpx;
+}
+.title.data-v-15d275b0{
+	font-size: 48rpx;
+	font-weight: 700;
+}
+.text.data-v-15d275b0{
+	font-size: 36rpx;
+	font-weight: 700;
+}
+.nameTime.data-v-15d275b0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	font-size: 24rpx;
+	color: #999999;
+}
+

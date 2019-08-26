@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/new/new",
+    "pages/info/info",
+    "pages/weather/weather"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": " ",
+    "navigationBarBackgroundColor": "#f40",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "news",
+  "compilerVersion": "2.2.2",
+  "usingComponents": {}
+}
